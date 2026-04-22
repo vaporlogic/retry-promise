@@ -1,6 +1,6 @@
 {
   "name": "@vaporlogicgp/retry-promise",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "description": "Retry a promise-returning function with configurable backoff",
   "repository": {
     "type": "git",
@@ -11,8 +11,7 @@
     "retry",
     "promise",
     "backoff",
-    "async",
-    "resilience"
+    "async"
   ],
   "author": "async-utils-oss",
   "license": "MIT"
